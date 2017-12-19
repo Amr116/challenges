@@ -59,8 +59,8 @@ Worst-case  O(len(combinations) * len(permutations))
 ##### The secret phrases:
 
 <details>
-	<summary style="color:green;">The easiest secret phrase</summary>
-	<p>printout stout yawls</p>
+	<summary>The easiest secret phrase</summary>
+	<p style="color:red;">printout stout yawls</p>
 </details>
 <details>
 	<summary>The more difficult secret</summary>
