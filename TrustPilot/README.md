@@ -45,4 +45,4 @@ The solution of the problem divided into two modules:
 
 ### Algorithms calculations
 * Combinations Formula: 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\n!&space;}{\r!&space;(n-r)!)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\n!&space;}{\r!&space;(n-r)!)}" title="\frac{\n! }{\r! (n-r)!)}" /></a>
+n\sqrt
