@@ -44,5 +44,7 @@ The solution of the problem divided into two modules:
 			```
 
 ### Algorithms calculations
-* Combinations Formula: 
-n\frac{a}{b}
+* Combinations Formula:
+				 n!
+	- n_C_r = ---------
+			   r! (n-r)!
