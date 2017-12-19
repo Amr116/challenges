@@ -63,6 +63,11 @@ Worst-case  O(len(combinations) * len(permutations))
 	<p>printout stout yawls</p>
 </details>
 <details>
-	<summary>The easiest secret phrase</summary>
-	<p>printout stout yawls</p>
+	<summary>The more difficult secret</summary>
+	<p>ty outlaws printouts</p>
+</details>
+<details>
+	<summary>The hard secret phrase</summary>
+	<p>I will not tell you.!</p>p>
+	<p>First Solve it and then you are welcome to check it.</p>
 </details>
