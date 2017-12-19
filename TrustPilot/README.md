@@ -42,3 +42,8 @@ The solution of the problem divided into two modules:
 			```
 			1. append the found secret phrase to the return variable
 			```
+
+### Algorithms calculations
+```
+* combinations formula:	n_C_r =
+```
