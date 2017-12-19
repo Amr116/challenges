@@ -29,7 +29,7 @@ The solution of the problem divided into two modules:
 
 	```
 	1. Generate all the combinations possible with three elements.
-	2. For each combinations check the length of it's charachters.
+	2. For each combinations check the length of its charachters.
 	```
 	* if length == anagrame characheters length, then
 		
@@ -38,5 +38,5 @@ The solution of the problem divided into two modules:
 		2. for each permutations, joining those words together with space between them.
 		3. Calculate the md5 hash for the phrase
 		```
-		if the results of the above step exists in the md5 hash list, then
+		* if the results of the above step exists in the md5 hash list, then
 			1. append the found secret phrase to the return variable
