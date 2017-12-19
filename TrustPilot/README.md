@@ -59,14 +59,14 @@ Worst-case  O(len(combinations) * len(permutations))
 ##### The secret phrases:
 
 <details>
-	<summary>The easiest secret phrase</summary>
+	<summary>The easiest secret phrase ↓</summary>
 	<p>printout stout yawls</p>
 </details>
 <details>
-	<summary>The more difficult secret</summary>
+	<summary>The more difficult secret phrase ↓</summary>
 	<p>ty outlaws printouts</p>
 </details>
 <details>
-	<summary>The hard secret phrase</summary>
+	<summary>The hard secret phrase ↓</summary>
 	<p>I will not tell you.! First Solve it and then you are welcome to check it with me.</p>
 </details>
