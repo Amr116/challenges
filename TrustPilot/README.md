@@ -14,7 +14,9 @@ The solution of the problem divided into two modules:
 
 1. Filter the given file <wordlist> according to the information on challenge url.
 	- anagram of the phrase is: "poultry outwits ants"
-	- The above line tells me a lot.
+	```
+	The above line tells me a lot.
+	```
 		1. All characters are ASCII lowercase.
 		2. What is target characters?
 		3. Length of phrase.
