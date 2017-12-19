@@ -45,4 +45,4 @@ The solution of the problem divided into two modules:
 
 ### Algorithms calculations
 * Combinations Formula:
-![picture alt](https://github.com/Amr116/challenges/blob/master/Assets/CodeCogsEqn.gif)
+- ![picture alt](https://github.com/Amr116/challenges/blob/master/Assets/CodeCogsEqn.gif)
