@@ -12,7 +12,7 @@
 ### Solution Steps
 The solution of the problem divided into two modules:
 
-1. Filter the given file <wordlist> according to the information on challenge url.
+1. Filter the given file [wordlist](https://github.com/Amr116/chllanges/Trustpilot) according to the information on challenge url.
 	- anagram of the phrase is: "poultry outwits ants"
 	```
 	The above line tells me a lot.
@@ -21,7 +21,7 @@ The solution of the problem divided into two modules:
 		2. What is target characters?
 		3. Length of phrase.
 		4. Maximum number of each characters in secret phease.
-		5. How many words in secret phease (Three elements)
+		5. How many words in secret phease (Suggest: Three elements)
 
 
 2. 
