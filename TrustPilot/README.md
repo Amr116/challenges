@@ -68,6 +68,6 @@ Worst-case  O(len(combinations) * len(permutations))
 </details>
 <details>
 	<summary>The hard secret phrase</summary>
-	<p>I will not tell you.!</p>p>
+	<p>I will not tell you.!</p>
 	<p>First Solve it and then you are welcome to check it.</p>
 </details>
