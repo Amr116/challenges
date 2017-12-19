@@ -31,12 +31,13 @@ The solution of the problem divided into two modules:
 		2. For each combinations check the length of it's charachters.
 		
 		```
-		if length == anagrame characheters length, then
-		```
-
+		- if length == anagrame characheters length, then
+			
+			```
 			1. Generate all the permutations possible for those three words
 			2. for each permutations, joining those words together with space between them.
 			3. Calculate the md5 hash for the phrase
+			
 				```
 				if the results of the above step exists in the md5 hash list, then
 				```
