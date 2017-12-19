@@ -25,7 +25,7 @@ The solution of the problem divided into two modules:
 
 
 2. Generate combinations, permutations and Verify md5 hash.
-	<p>The Filter module will produce new words list of length 1659.</p>  :clap:
+	<p>The Filter module will produce new words list of length 1659. :clap: </p>
 
 	```
 	1. Generate all the combinations possible with three elements.
