@@ -12,5 +12,5 @@
 ### Solution Steps
 The solution of the problem divided into two modules:
 
-1- gello
-2- no
+1. gello
+2. no
