@@ -44,6 +44,4 @@ The solution of the problem divided into two modules:
 			```
 
 ### Algorithms calculations
-```
-* combinations formula:	n_C_r =
-```
+* combinations formula: ```n_C_r =```
