@@ -77,5 +77,5 @@ Worst-case  O(len(combinations) * len(permutations))
 If you would like to improve the performance of the running time, so you can use multithreading to 
 ```python
 def combineAndVerify (dictionary, md5Hash, anagramLength):
-[@](https://github.com/Amr116/challenges/blob/master/TrustPilot/Combine.py)
 ```
+[@ Combine.py](https://github.com/Amr116/challenges/blob/master/TrustPilot/Combine.py)
