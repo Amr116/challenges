@@ -55,3 +55,5 @@ the target combinations is 50884724
 ```
 Worst-case  O(len(combinations) * len(permutations))
 ```
+
+##### The secret phrases:
