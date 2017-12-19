@@ -12,7 +12,7 @@
 ### Solution Steps
 The solution of the problem divided into two modules:
 
-1. Filter the given file [wordlist](https://github.com/Amr116/chllanges/Trustpilot) according to the information on challenge url.
+1. Filter the given file [wordlist](https://github.com/Amr116/challenges/blob/master/TrustPilot/wordlist) according to the information on challenge url.
 	- anagram of the phrase is: "poultry outwits ants"
 	```
 	The above line tells me a lot.
