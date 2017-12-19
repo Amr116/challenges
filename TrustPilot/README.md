@@ -26,7 +26,7 @@ The solution of the problem divided into two modules:
 
 2. Generate combinations, permutations and Verify md5 hash.
 	```
-	The Filter module produced new words list of length 1659.
+	- The Filter module produced new words list of length 1659.
 	```
 
 	1. Generate all the combinations possible with three elements.
@@ -41,5 +41,5 @@ The solution of the problem divided into two modules:
 				```
 				if the results of the above step exists in the md5 hash list, then
 				```
-				
+
 				1. append the found secret phrase to the return variable
