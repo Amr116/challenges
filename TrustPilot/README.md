@@ -45,6 +45,4 @@ The solution of the problem divided into two modules:
 
 ### Algorithms calculations
 * Combinations Formula:
-				 n!
-	- n_C_r = ---------
-			   r! (n-r)!
+[what](https://github.com/Amr116/challenges/blob/master/Assets/CodeCogsEqn.gif)
