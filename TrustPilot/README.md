@@ -1,5 +1,5 @@
 # Solution for Trustpilot challenge <followthewhiterabbit>
-* challenge Name : <followthewhiterabbit>
+* challenge Name : followthewhiterabbit
 * Challenge url: http://followthewhiterabbit.trustpilot.com/cs/step3.html
 * Prerequisites: Python 3+
 * Usage: python3 Main.py
