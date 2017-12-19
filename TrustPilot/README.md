@@ -50,3 +50,8 @@ The above calculation will generate 759630109 combinations, but because of step 
 the target combinations is 50884724
 ```
 * Permutations formula: ![picture alt](https://github.com/Amr116/challenges/blob/master/Assets/CodeCogsEqnP.gif)
+
+### RunTime Complexty
+```
+Worst-case  O(len(combinations) * len(permutations))
+```
