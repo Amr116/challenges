@@ -31,7 +31,7 @@ The solution of the problem divided into two modules:
 		2. For each combinations check the length of it's charachters.
 		
 		```
-		- if length == anagrame characheters length, then
+		[x] if length == anagrame characheters length, then
 			
 			```
 			1. Generate all the permutations possible for those three words
