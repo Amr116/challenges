@@ -57,3 +57,10 @@ Worst-case  O(len(combinations) * len(permutations))
 ```
 
 ##### The secret phrases:
+
+<details>
+	<summary>Title 1</summary>
+	<p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+	<summary>Title 1</summary>
+	<p>Content 1 Content 1 Content 1 Content 1 Content 1</p>	
+</details>
