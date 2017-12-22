@@ -9,26 +9,23 @@
 
 
 ### Problem
+
 ```
 As a part of the Reviso recruitment process we always ask our candidates to complete a practical
 development challenge. The challenge consists of two parts:
-1. You do your magic, solve the provided task, and send the results to us.
-2. We host a session where you present your solution to us, and we all have a nice talk about it.
+```
+- The task is to implement a simple web application that solves the following two user stories:
+	1. As a freelancer I want to be able to register the time I spend on my projects, so that I can 
+	   create correct invoices for my customers.
+	2. As a freelancer I want to be able to get an overview of my time registrations, so that I can 
+	   create correct invoices for my customers.
 
-The task is to implement a simple web application that solves the following two user stories:
-As a freelancer I want to be able to register the time I spend on my projects, so that I can create
-correct invoices for my customers.
-
-As a freelancer I want to be able to get an overview of my time registrations, so that I can create
-correct invoices for my customers.
-Keep in mind that we do not expect your code to be production ready. What we're looking for is to see
-if you have the ability to transform a set of user requirements into a working tool, preferably
-creating some nice and clean code along the way. We will appreciate if your solution is:
-Working
-Easy to use
-SOLID
-Maintainable
-Testable
+We will appreciate if your solution is:
+	1. Working
+	2. Easy to use
+	3. SOLID
+	4. Maintainable
+	5. Testable
 
 ### Solution Steps
 
