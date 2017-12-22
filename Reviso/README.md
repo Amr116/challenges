@@ -22,11 +22,11 @@ development challenge. The challenge consists of two parts:
 ```
 We will appreciate your solution is:
 ```
-	- Working
-	- Easy to use
-	- SOLID
-	- Maintainable
-	- Testable
+- Working
+- Easy to use
+- SOLID
+- Maintainable
+- Testable
 
 ### Solution Steps
 
