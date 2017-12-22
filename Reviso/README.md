@@ -21,7 +21,7 @@ development challenge. The challenge consists of two parts:
 	   create correct invoices for my customers.
 ```
 We will appreciate your solution is:
-```
+
 	- Working
 	- Easy to use
 	- SOLID
