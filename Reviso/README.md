@@ -19,9 +19,9 @@ development challenge. The challenge consists of two parts:
 	   create correct invoices for my customers.
 	2. As a freelancer I want to be able to get an overview of my time registrations, so that I can 
 	   create correct invoices for my customers.
-
-We will appreciate if your solution is:
-
+```
+We will appreciate your solution is:
+```
 	1. Working
 	2. Easy to use
 	3. SOLID
