@@ -74,6 +74,7 @@ namespace RegisterTime.Services
             }
             return false;
         }
+
         public IEnumerable<Project> CreateProject(Guid freelancerId, string title)
         {
             var project = new Project
