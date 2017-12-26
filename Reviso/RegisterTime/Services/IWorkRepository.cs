@@ -21,7 +21,7 @@ namespace RegisterTime.Services
         IEnumerable<Project> AddFreelacerToProject(Guid freelancerId, Guid projectId);
 
         bool Save();
-        
+
         void AddFreelancer(Freelancer freelancer);
         void DeleteFreelancer(Freelancer freelancer);
 
